@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarriTheEditor
-- 👀 I’m interested in javascript, html, lua and c++.
-- 🌱 I’m currently learning xmlhttprequest on javascript and the basics of c++.
+- 👀 I’m interested in javascript, html, lua, python and c++.
+- 🌱 I am learning Python at the moment.
 - 💞️ I’m not looking to collaborate as I prefer to do my own projects and ideas.
-- 📫 You can reach me at @harru_p on twitter.
-- 😎 Oh yea, I made some cool projects like routetour and my currently work in progress, Harruchat.
+- 📫 You can't reach me anywhere. Yet.
+- 😎 Oh yea, I made some cool projects like routetour and my currently work in progress, PyExplorer.
