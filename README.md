@@ -1,3 +1,4 @@
+# Welcome
 - 👋 Hi, I’m @HarriTheEditor
 - 👀 I’m interested in javascript, html, lua, python and c++.
 - 🌱 I am learning Python at the moment.
@@ -5,4 +6,5 @@
 - 📫 You can't reach me anywhere. Yet.
 - 😎 Oh yea, I made some cool projects like routetour and my currently work in progress, PyExplorer.
 
+# Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarriTheEditor)](https://github.com/anuraghazra/github-readme-stats)
