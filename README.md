@@ -1,6 +1,6 @@
 # Welcome
-- I'm uh harri
-- I'm also known as harstud, ha_rrizz, etc
+- I'm adelynn
+- I'm also known as antlergirl and No Other names
 - I do stuff I wanna
 
 # Stats
